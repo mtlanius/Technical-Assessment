@@ -7,7 +7,7 @@ Please utilize the contents of this repository to complete the following tasks:
 
 2. Modify the API call in "API TEST 2" to send succesffully.
 
-3. Create an API that creates a single DocuSign envelope that combines the templates "TemplateJSON1" and "TemplateJSON2" and is directed to the following recipients: John Doe, johndoe@test.test and Jane Doe, janedoe@test.test.
+3. Create an API that creates a single DocuSign envelope that combines the templates "TestJSON1" and "TestJSON2" and is directed to the following recipients: John Doe, johndoe@test.test and Jane Doe, janedoe@test.test.
 
 4. When prompted, please return your completed API calls to your recruiting coordinator. 
 
