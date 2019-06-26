@@ -9,8 +9,8 @@ Please utilize the contents of this repository to complete the following tasks:
 
 3. Create an API that creates a single DocuSign envelope that combines the templates "TemplateJSON1" and "TemplateJSON2" and is directed to the following recipients
 
-  Recipient 1 - John Doe, johndoe@test.test
-  Recipient 2 - Jane Doe, janedoe@test.test
+  a. Recipient 1 - John Doe, johndoe@test.test
+  b. Recipient 2 - Jane Doe, janedoe@test.test
 
 4. When prompted, please return your completed API calls to your recruiting coordinator. 
 
