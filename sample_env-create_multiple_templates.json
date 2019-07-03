@@ -33,12 +33,11 @@
                     "roleName": "Seller"
                 },
                 {
-                	"email": "enduser148@gmail.com",
-                	"name": "End User148",
-                	"recipientId": "3",
-                	"roleName": "Seller"
-                }
-               ]
+	            	"email": "enduser148@gmail.com",
+	            	"name": "End User148",
+	            	"recipientId": "3",
+	            	"roleName": "Seller"
+            	}]
             }
         }]
     }]
