@@ -43,3 +43,12 @@
   "emailSubject": "This is a blank document to sign",
   "status": "sent"
 }
+
+### RESPONSE
+
+{
+    "envelopeId": "cefe54bb-c19e-4a59-9ba2-f4783ecb61fa",
+    "uri": "/envelopes/cefe54bb-c19e-4a59-9ba2-f4783ecb61fa",
+    "statusDateTime": "2019-07-03T04:48:27.9600000Z",
+    "status": "sent"
+}
